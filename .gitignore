@@ -42,6 +42,13 @@
 *.idb
 *.pdb
 
+# Debug folder and IDE files and makefiles
+build-Debug/
+.codelite/
+Advanced_C.workspace
+Makefile
+compile_commands.json
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
